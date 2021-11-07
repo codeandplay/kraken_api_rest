@@ -6,6 +6,10 @@ license = "MIT"
 description = "Kraken REST API"
 homepage = "https://infidev.co.uk"
 documentation = "https://docs.rs/kraken_rest_api"
+repository = "https://github.com/codeandplay/kraken_api_rest"
+readme = "README.md"
+keywords = ["kraken", "rest", "api"]
+categories = ["web-programming::http-client"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
